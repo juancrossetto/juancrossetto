@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Juanma Crossetto 💻</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/sachuverma/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+   <a href="https://www.linkedin.com/in/juanma-crossetto/">
+    <img src="https://img.shields.io/badge/linkedin-juancrossetto-blue">
   </a>
   
-  <a href="https://www.instagram.com/sachuverma_/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+  <a href="https://www.instagram.com/juanmacrossetto/">
+    <img src="https://img.shields.io/badge/instagram-juancrossetto_-red">
   </a>
 </p>
 
