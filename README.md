@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning ... **ReactJS and NodeJS**
 - 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Currently I'm working on Santander Tecnología**
+- 😄 Employement ... **Currently I'm working on Mitrol**
 - ⚡ Fun fact ... **Football and videogames**❤
 - 📫 How to reach me **juancrossetto@gmail.com**
 <h4>Main Programming Languages/Libraries: </h4>
